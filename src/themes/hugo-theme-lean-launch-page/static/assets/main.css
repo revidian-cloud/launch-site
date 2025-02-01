@@ -87,6 +87,18 @@ body{
 				color: #FAFAFA;
 				font-weight: bold;
 			}
+
+			#mce-responses{
+				padding-top: 56px;
+			}
+
+			#mce-success-response{
+				color: green;
+			}
+
+			#mce-error-response{
+				color: red;
+			}
 	ul{
 		padding-top: 15px;
 		list-style-type: circle;
