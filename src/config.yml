@@ -1,7 +1,6 @@
 baseurl: "https://cloud.revidian.com/"
 title: "Revidian Cloud"
 canonifyurls: true
-paginate: 3
 
 theme: "hugo-theme-lean-launch-page"
 
@@ -10,4 +9,6 @@ googleAnalytics: "G-Y31HPBXT36"
 params:
   tagline: "A hub for all of your Internet assets - domains, services, TLS, etc"
   mailchimpURL: "https://revidian.us11.list-manage.com/subscribe/post?u=9215c82922deff08fe4fcd0d1&amp;id=a280c6b08b&amp;f_id=00ac17e1f0"
+  bluesky: "https://bsky.app/profile/revidian.cloud"
+  mastodon: "https://social.linodians.com/@RevidianCloud"
   github: "https://github.com/revidian-cloud"
